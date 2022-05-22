@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F32424</color>
+    <color name="yellow">#FFC600</color>
+
+    <color name="base">#2C2C2E</color>
+    <color name="kotak">#48484A</color>
+    <color name="kotak2">#8E8E93</color>
+
+    <color name="text">#007AFF</color>
+
+    <color name="putihffff">#ffff</color>
+    <color name="putihf7f7f7">#f7f7f7</color>
+    <color name="hitam0f0f0f">#0f0f0f</color>
+    <color name="biru289eff">#289eff</color>
+    <color name="putihe0e0e0">#e0e0e0</color>
+    <color name="transparan">#00000000</color>
+    <color name="seabrook">#487eb0</color>
+
+
+    <color name="mist">#90AFC5</color>
+    <color name="stone">#334B87</color>
+    <color name="shadow">#2A3132</color>
+    <color name="autum_foloage">#763626</color>
+</resources>

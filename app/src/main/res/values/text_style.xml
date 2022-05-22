@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Roboto_Medium" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">font/roboto_medium.ttf</item>
+    </style>
+
+    <style name="Lato_Regular" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">font/lato_regular.ttf</item>
+    </style>
+
+    <style name="Work_Sans" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">font/work_sans.ttf</item>
+    </style>
+
+    <style name="txt_dec_hm_pf" parent="Work_Sans">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="nama_saya" parent="Roboto_Medium">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="motivasi" parent="Work_Sans">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="hobi" parent="Roboto_Medium">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">yan</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_daily">Daily Acitivty</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="nama_saya">Birliano Ekayan Arsyad</string>
+    <string name="motivasi">Maju Terus Trabas Jaya</string>
+    <string name="interest">Interest</string>
+    <string name="dec_home">Nama Saya Birliano Ekayan Arsyad, 21 tahun, Lahir dan tinggal di bandung,
+        Saya mahasiswa di Universitas Komputer Indonesia Fakultas Teknik dan Ilmu Komputer,
+        Jurusan Teknik Informatika Semester 6.
+    </string>
+    <string name="dec_home2">Saya merupakan anak 1 dari 2 bersaudara, adik saya sudah
+        lulus SMA dan sudah keterima di Unpad, Jurusan Hukum, Saya dan adik lulus di SD yang sama
+        di Tunas Unggul, saya melanjutkan ke MTS MIMHA dan adik saya ke Tarbak, setalah lulus saya
+        melanjutkan ke SMK2 Bandung dan adik saya di SMA 14. Ayah dan Ibu saya merupakan PNS, Ayah
+        merupakan seorang TNI di Dispsiad, Ibu saya seorang Guru Bahasa Ingrish di SMPN 1 Cilenyi.
+    </string>
+
+    <string name="friends_list">Friends List</string>
+
+
+    <string name="ig_akun"><a href="https://www.instagram.com/villiian919">villiian919</a></string>
+    <string name="fb_akun"><a href="https://www.facebook.com/villian919">villian919</a></string>
+
+</resources>
